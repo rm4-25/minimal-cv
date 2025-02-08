@@ -10,7 +10,7 @@ raul martin IV (email) is a PhD student of English at the University of Miami. H
 
 ## Contact information
 
-(email[link:rxm1934@miami.edu])
+[email](rxm1934@miami.edu)
 
 ## Education
 
