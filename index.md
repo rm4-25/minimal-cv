@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# raul martin iv
 
-[Link to another page](./another-page.html).
+## About me
 
-There should be whitespace between paragraphs.
+raul martin IV (email) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. Although temporarily located in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Contact information
 
-# Header 1
+(email[link:rxm1934@miami.edu])
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Education
 
-## Header 2
+PhD in English, expected 2029 University of Miami, Coral Gables, Florida. 
+Master’s in English, 2023, Lamar University, Beaumont, Texas. 
+Master’s Certificate in Foresight, 2021, University of Houston, Houston, Texas.
+B.A. English and Modern Languages, 2020, Lamar University, Beaumont, Texas.
+A.A. Liberal Arts, 2018, Lamar State College Orange, Orange, Texas.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Teaching
 
-### Header 3
+INRW Adjunct Instructor, 2023-Present, Lamar Institute of Technology, Beaumont, TX. 
+DIRW 0400 Adjunct Instructor, 2021-Present, Lamar State College Orange. Orange, TX.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Publications
+Master’s Thesis
+Connective (T)issues. 2023. Lamar University, MA thesis. ProQuest.  
+ 
+Chapters
+“The Eco-Mirror in Jeff VanderMeer’s Southern Reach Trilogy” Edited Collection Altered Animals: Posthumanism and Technology in 20th and 21st Century Discourse and Narratives. Under Review with major publisher, 2025. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Articles
+“The Book Object Binary: Access and Sustainability in the Academic Library.” MLA Handbook Plus. MLA Style. Published, September 2023. 
+“Lifesavers!: Bloom’s Taxonomy.” NCLCA Newsletter Fall 2022. NCLCA. Published December 5, 2022. 
+“Higher Education during COVID: an explanation using Conger's Theory” Pulse!. Lamar University Press. Published, Fall 2021. 
 
-#### Header 4
+Reviews
+Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Submitted to Gothic Nature August 21, 2023. Forthcoming in Gothic Nature Issue V, Fall 2024. 
+McGuire, Saundra. Teach Students How to Learn. “Teach Students How to Learn: A Book Review.” NCLCA Newsletter Fall 2021. NCLCA. Published December 17, 2021. 
+Couch, J.D. and Jason Towne. Rewiring Education: How technology can unlock every student’s potential. “Rewiring Education: A Book Review.” NCLCA Newsletter Spring 2021. NCLCA. Published May 10, 2021.  
+Eng, Norman. Teaching College. “Teaching College: A Book Review.” NCLCA Newsletter Winter 2020. NCLCA. Published Feb. 2, 2021.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Poetry
+“At Rest.” HABITS: The Good, The Bad & The Ugly. Public Poetry. Published, Dec. 09, 2023.
+“The Dead Dictate.” Pulse!. Lamar University Press. Published, Spring 2023. 
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> "Life is a message scribbled in the dark" - Vladimir Nabokov, _Pale Fire_
+## My links
