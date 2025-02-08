@@ -50,7 +50,7 @@ Connective (T)issues. 2023. Lamar University, MA thesis. ProQuest.
 
 ### Reviews ###
 
-Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Submitted to Gothic Nature August 21, 2023. Forthcoming in Gothic Nature Issue V, Spring 2025.  
+Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Forthcoming in Gothic Nature Issue V, Spring 2025.  
 
 McGuire, Saundra. Teach Students How to Learn. “Teach Students How to Learn: A Book Review.” NCLCA Newsletter Fall 2021. NCLCA. Published December 17, 2021.  
 
