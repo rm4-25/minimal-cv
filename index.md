@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# raul martin iv 
+# raul martin iv #
 
-## About me 
+## About me ##
 
 raul martin IV (email) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. Although temporarily located in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
 
