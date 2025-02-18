@@ -30,6 +30,10 @@ INRW Adjunct Instructor, 2023-Present, Lamar Institute of Technology, Beaumont, 
 
 DIRW 0400 Adjunct Instructor, 2021-Present, Lamar State College Orange. Orange, TX.  
 
+## Awards ##
+
+Laura Bassi Foundation Scholarship; Editing Press—Fall 2024.
+
 ## Publications ##
 
 ### Master’s Thesis  
