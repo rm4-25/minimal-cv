@@ -26,13 +26,23 @@ A.A. Liberal Arts, 2018, Lamar State College Orange, Orange, Texas.
 
 ## Teaching ##
 
+WRS 105 Teaching Assistant, 2025-Present, University of Miami, Coral Gables, FL. 
+
 INRW Adjunct Instructor, 2023-Present, Lamar Institute of Technology, Beaumont, TX.   
 
 DIRW 0400 Adjunct Instructor, 2021-Present, Lamar State College Orange. Orange, TX.  
 
 ## Awards ##
 
-Laura Bassi Foundation Scholarship; Editing Press—Fall 2024.
+2025 Digital Humanities Summer Fellowship; University of Miami DH Committee. 
+
+2024-2025 Academic Excellence, Leadership, and Service (AELS); University of Miami Graduate Student Association.
+
+2024 Laura Bassi Foundation Scholarship; Editing Press.
+
+## Service ##
+
+2024-Present Student Library Advisory Board; University of Miami Library, Member. 
 
 ## Publications ##
 
@@ -48,13 +58,13 @@ Connective (T)issues. 2023. Lamar University, MA thesis. ProQuest.
 
 “The Book Object Binary: Access and Sustainability in the Academic Library.” MLA Handbook Plus. MLA Style. Published, September 2023.  
 
-“Lifesavers!: Bloom’s Taxonomy.” NCLCA Newsletter Fall 2022. NCLCA. Published December 5, 2022.  
+“Lifesavers!: Bloom’s Taxonomy.” NCLCA Newsletter Fall 2022. NCLCA. Published December 5, 2022. 
 
 “Higher Education during COVID: an explanation using Conger's Theory” Pulse!. Lamar University Press. Published, Fall 2021.   
 
 ### Reviews ###
 
-Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Forthcoming in Gothic Nature Issue V, Spring 2025.  
+Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Gothic Nature Issue V, Published April 2025.  
 
 McGuire, Saundra. Teach Students How to Learn. “Teach Students How to Learn: A Book Review.” NCLCA Newsletter Fall 2021. NCLCA. Published December 17, 2021.  
 
