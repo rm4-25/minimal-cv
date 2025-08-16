@@ -26,7 +26,7 @@ A.A. Liberal Arts, 2018, Lamar State College Orange, Orange, Texas.
 
 ## Teaching ##
 
-WRS 105 Teaching Assistant, 2025-Present, University of Miami, Coral Gables, FL. 
+ENG 106 Graduate Instructor, Fall 2025, University of Miami, Coral Gables, FL.  
 
 INRW Adjunct Instructor, 2023-Present, Lamar Institute of Technology, Beaumont, TX.   
 
@@ -41,6 +41,8 @@ DIRW 0400 Adjunct Instructor, 2021-Present, Lamar State College Orange. Orange, 
 2024 Laura Bassi Foundation Scholarship; Editing Press.
 
 ## Service ##
+
+2025-26 UGrow Digital Humanities; University of Miami, Fellow
 
 2024-Present Student Library Advisory Board; University of Miami Library, Member. 
 
